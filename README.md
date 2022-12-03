@@ -11,7 +11,7 @@
 - Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects
 
 ## Tempo Tunes
-### A music player whose beats are based on BPM
+### A music player with beats based on BPM
 Backend repo: https://github.com/gnd23/hack-challenge-2022<br/>
 Video demo: https://youtu.be/tWzn1ZrGZVc
 
