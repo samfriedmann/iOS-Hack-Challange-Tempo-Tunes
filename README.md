@@ -13,6 +13,7 @@
 ## Tempo Tunes
 ### A music player with beats based on BPM
 Backend repo: https://github.com/gnd23/hack-challenge-2022<br/>
+Design Figma: https://www.figma.com/file/eX6xuAbHMMrAWuyUsyzZ1j/Hack-challenge-katherine-chang?node-id=31:408<br/>
 Video demo: https://youtu.be/tWzn1ZrGZVc
 
 ### Features:
