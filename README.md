@@ -17,9 +17,12 @@ Design Figma: https://www.figma.com/file/eX6xuAbHMMrAWuyUsyzZ1j/Hack-challenge-k
 Video demo: https://youtu.be/tWzn1ZrGZVc
 
 ### Screenshots
-![Screenshot](Screenshots/Screen 1.png)
-
-
+![Screenshot](Screenshots/sc1.png | width=100)
+![Screenshot](Screenshots/sc2.png | width=100)
+![Screenshot](Screenshots/sc3.png | width=100)
+![Screenshot](Screenshots/sc4.png | width=100)
+![Screenshot](Screenshots/sc5.png | width=100)
+![Screenshot](Screenshots/sc6.png | width=100)
 
 ### Features:
 1. App with icon and display name
