@@ -10,7 +10,11 @@
 - Anything else you want your grader to know
 - Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects
 
-## Tempo Tunes iOS app
+## Tempo Tunes
+### A music player with beats based on BPM
+Backend repo: https://github.com/gnd23/hack-challenge-2022<br/>
+Design Figma: https://www.figma.com/file/eX6xuAbHMMrAWuyUsyzZ1j/Hack-challenge-katherine-chang?node-id=31:408<br/>
+Video demo: https://youtu.be/tWzn1ZrGZVc
 
 ### Features:
 1. App with icon and display name
@@ -22,9 +26,9 @@
 7. Button to open YouTube video using URL
 
 ### Team members:
-Gavin Nicholas Dutterer (Backend)
-Katherine Chang (Design)
-Allison Hui (iOS)
+Gavin Nicholas Dutterer (Backend)\
+Katherine Chang (Design)\
+Allison Hui (iOS)\
 Sam Friedman (iOS)
 
 ### Future features to implement:
@@ -34,4 +38,4 @@ Sam Friedman (iOS)
 - Ability to add and change song details stored in the database
 
 
-Sam Friedman 2022
+© Sam Friedman 2022
