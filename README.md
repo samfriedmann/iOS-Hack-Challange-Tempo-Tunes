@@ -17,12 +17,8 @@ Design Figma: https://www.figma.com/file/eX6xuAbHMMrAWuyUsyzZ1j/Hack-challenge-k
 Video demo: https://youtu.be/tWzn1ZrGZVc
 
 ### Screenshots
-![Screenshot](Screenshots/sc1.png | width=100)
-![Screenshot](Screenshots/sc2.png | width=100)
-![Screenshot](Screenshots/sc3.png | width=100)
-![Screenshot](Screenshots/sc4.png | width=100)
-![Screenshot](Screenshots/sc5.png | width=100)
-![Screenshot](Screenshots/sc6.png | width=100)
+<img src="Screenshots/sc1.png" width="200" height="433"> <img src="Screenshots/sc2.png" width="200" height="433"> <br/> <img src="Screenshots/sc3.png" width="200" height="433"> <img src="Screenshots/sc4.png" width="200" height="433"> <img src="Screenshots/sc5.png" width="200" height="433"> <br/> <img src="Screenshots/sc6.png" width="200" height="433">
+
 
 ### Features:
 1. App with icon and display name
@@ -43,7 +39,9 @@ Sam Friedman (iOS)
 - Loading and displaying album art
 - Filtering songs by BPM
 - Bottom navigation bar to move between screens
-- Ability to add and change song details stored in the database
+- Song changes added to database
+- Add new songs
+- Favorite songs and BPM's
 
 
 © Sam Friedman 2022
