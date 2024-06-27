@@ -1,16 +1,5 @@
-# iOS Hack Challange "Tempo Tunes"
- 
- In your GitHub repository, please include a README with the following:
-- App Name
-- App Tagline: short one-liner description of your app
-- Link(s) to any other public GitHub repo(s) of your app. If you have one repo for iOS / Android and one for Backend, please link to your backend repo in your iOS / Android README, and your iOS / Android repo in your backend README.
-- Some screenshots of your app (highlight important features)
-- A short description of your app (its purpose and features)
-- A list of how your app addresses each of the requirements
-- Anything else you want your grader to know
-- Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects
+# Tempo Tunes
 
-## Tempo Tunes
 ### A music player with beats based on BPM
 Backend repo: https://github.com/gnd23/hack-challenge-2022<br/>
 Design Figma: https://www.figma.com/file/eX6xuAbHMMrAWuyUsyzZ1j/Hack-challenge-katherine-chang?node-id=31:408<br/>
@@ -44,4 +33,6 @@ Sam Friedman (iOS)
 - Favorite songs and BPM's
 
 
-© Sam Friedman 2022
+#### Tempo Tunes is a collaborative app originally built for Cornell AppDev's iOS Hack Challange
+
+© Sam Friedman 2024
